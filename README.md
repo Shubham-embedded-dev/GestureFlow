@@ -8,7 +8,7 @@ This is an AI-powered Gesture Control System that allows users to interact with 
   1. Command Mode: Where specific finger gestures act as shortcuts to launch applications .
   2. Mouse Mode: Which uses smooth tracking for cursor control and includes a 'hold-to-click' feature for hands-free navigation.
 
-# I’ve also implemented a Privacy Mode and Fist-based commands for tasks like system control and navigation. It’s designed to make human-computer interaction more intuitive and accessible."
+   I’ve also implemented a Privacy Mode and Fist-based commands for tasks like system control and navigation. It’s designed to make human-       computer interaction more intuitive and accessible."
   
 
  # WORKING : TECHNICAL SIDE 
